@@ -125,5 +125,22 @@ h1, h2 {
     margin-bottom: 20px;
 }
 
+/* Sign Up */
 
+#sign-up {
+    height: 600px;
+    width: 100%;
+}
+
+#fname {
+
+}
+
+#lname {
+
+}
+
+#e-mail {
+
+}
 
