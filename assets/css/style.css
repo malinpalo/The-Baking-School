@@ -79,36 +79,51 @@ h1, h2 {
     line-height: 75px;
     text-align: center;
     font-size: 200%;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    background-color: #C1D7CB;
     
 }
 
 /* About */
 
 #about {
-    height: 600px;
-    
-    
+    height: 300px;
+    background-color: #76A78C;
 }
 
 #why-bake {
     padding-top: 30px;
-    width: 33%;
-    margin: 0 auto;
+    padding-left: 30px;
+    width: 40%;
+    margin-left: 200px;
+    line-height: 20px;
     float: left;
+    
+    
     
 }
 
 #how-does-it-work {
     padding-top: 30px;
-    width: 33%;
-    margin: 0 auto;
+    padding-right: 40px;
+    width: 40%;
+    line-height: 20px;
     float: right;
+    
+    
+
 }
 
-#why-chose-us {
-    padding-top: 30px;
-    width: 33%;
-    margin: 0 auto;
-    float: ;
+#why-bake-heading {
+    font-size: 200%;
+    margin-bottom: 20px;
 }
+
+#how-does-it-work-heading {
+    font-size: 200%;
+    margin-bottom: 20px;
+}
+
+
 
