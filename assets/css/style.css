@@ -65,6 +65,7 @@ h1, h2 {
 
 #homepage {
     line-height: 75px;
+
 }
 
 #homepage-image {
@@ -79,8 +80,7 @@ h1, h2 {
     line-height: 75px;
     text-align: center;
     font-size: 200%;
-    margin-top: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     background-color: #C1D7CB;
     
 }
@@ -98,20 +98,15 @@ h1, h2 {
     width: 40%;
     margin-left: 200px;
     line-height: 20px;
-    float: left;
-    
-    
-    
+    float: left;   
 }
 
 #how-does-it-work {
     padding-top: 30px;
-    padding-right: 40px;
+    padding-right: 50px;
     width: 40%;
     line-height: 20px;
     float: right;
-    
-    
 
 }
 
@@ -127,20 +122,42 @@ h1, h2 {
 
 /* Sign Up */
 
-#sign-up {
-    height: 600px;
+.sign-up {
+    
+    color: #C1D7CB;
+    margin: 25px 300px;
+    
+}
+
+.form {
+    background-color: #E8B34D;
+    color: black;
+    margin: 150px 10% 20px 150px; 
+    max-width: 500px;
+    text-decoration: none;
+    text-align: left;
+    padding: 30px;
+   
+}
+
+.text-input {
+    color: black;
     width: 100%;
-}
-
-#fname {
-
-}
-
-#lname {
+    height: 25px;   
+    margin: 5px 0 20px 0;
+    border: 1px solid black;
+    
 
 }
 
-#e-mail {
-
+#submit {
+    padding: 10px 28px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 100%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    background-color: #76A78C;
+    
 }
 

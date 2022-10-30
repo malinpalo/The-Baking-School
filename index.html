@@ -33,10 +33,9 @@
             </ul>
         </nav>
     </header>
-    <section>
-        <div id="homepage-image"></div>
-    </section>
-    <section>
+    <section id="homepage">
+        <div id="homepage-image">
+        </div>
         <h2 id="homepage-text">Baking can be easy and fun, join us on a class to learn how!</h2>
     </section>
     <section id="about">  
@@ -54,25 +53,25 @@
             <h2 id="how-does-it-work-heading">How does It work?</h2>
             <ul>
                 <li>We'll meet up at our fully equipped school kitchen.</li>
-                <li>You will get a short introduction to the art of baking, some handy tips and a walkthrough of the recipe.</li>
-                <li>There we will supply you with a recipe, all the baking tools and ingredients needed.</li>
-                <li>Together we bake and when everything is out of the oven we sit down to have a taste of the creation together with a cup of tea or coffee. </li>
+                <li>You will get a short introduction to the art of baking, <br> some handy tips and a walkthrough of the recipe.</li>
+                <li>There we will supply you with a recipe, <br> all the baking tools and ingredients needed.</li>
+                <li>Together we bake. 
+                <li>When everything is out of the oven <br> we sit down to have a taste of the creation <br> together with a cup of tea or coffee. </li>
             </ul>
         </div>
     </section>
     <Section class="sign-up">
-        <h2>Sign up to get started!</h2>
-        <form action="/assets/" method="post">
-            <fieldset>
+        <form class="form" action="#" method="post">
+            <h2>Sign up to get started!</h2>
             <label for="fname">Name</label>
-            <input class="sign-up" id="fname" type="text">
+            <input class="text-input" id="fname" type="text" required>
             <label for="lname">Last Name</label>
-            <input class="sign-up" id="lname" type="text">
+            <input class="text-input" id="lname" type="text" required>
             <label for="e-mail">Email adress</label>
-            <input class="sign-up" id="e-mail" type="email">
-            <label for="submit">Submit</label>
-            <input class="sign-up" id="submit" value="submit">
-        </fieldset>
+            <input class="text-input" id="e-mail" type="email" required>
+            
+            <input id="submit" type="submit" value="Submit">
+        
         </form>
     </Section>
     <section>
