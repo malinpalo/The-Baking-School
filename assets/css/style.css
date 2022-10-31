@@ -96,7 +96,7 @@ h1, h2 {
     padding-top: 30px;
     padding-left: 30px;
     width: 40%;
-    margin-left: 200px;
+    margin: 75px 0 ;
     line-height: 20px;
     float: left;   
 }
@@ -104,6 +104,7 @@ h1, h2 {
 #how-does-it-work {
     padding-top: 30px;
     padding-right: 50px;
+    margin: auto;
     width: 40%;
     line-height: 20px;
     float: right;
@@ -158,6 +159,35 @@ h1, h2 {
     letter-spacing: 1px;
     text-transform: uppercase;
     background-color: #76A78C;
+    border: 1px solid black;
     
 }
 
+/* Contact */
+
+#contact {
+    background-color: #76A78C;
+    height: 400px;
+    width: 100%;
+}
+
+#contact-heading {
+    font-size: 200%;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 30px;
+    
+
+    
+}
+
+#contact-text {
+    font-size: 200%;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-top: 30px;
+    width: 100%;
+    background-color: #76A78C;
+
+}
