@@ -93,6 +93,7 @@ h1, h2 {
     margin: 5% 10%;
     padding: 1rem;
     font-size: 150%;
+    letter-spacing: 1px;
 }
 
 #why-bake-heading {
