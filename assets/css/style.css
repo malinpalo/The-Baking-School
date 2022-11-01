@@ -87,7 +87,8 @@ h1, h2 {
 }
 
 #why-bake {
-    padding: 50px;
+    margin-top: 5%;
+    padding: 4rem;
     width: 40%;
     line-height: 30px;
     float: left;
@@ -95,7 +96,8 @@ h1, h2 {
 }
 
 #how-does-it-work {
-    padding: 50px;
+    margin-top: 5%;
+    padding: 4rem;
     width: 40%;
     line-height: 30px;
     float: right;
