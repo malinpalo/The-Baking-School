@@ -215,4 +215,12 @@ footer{
     .about-container {
         flex-direction: column;
     }
+    #homepage-image {
+         width: 90%;
+         height: 600px;
+         margin: 0 auto;
+    }
+    #about-heading {
+
+    }
 }
