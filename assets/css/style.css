@@ -115,6 +115,11 @@ h1, h2 {
     
 }
 
+#sign-up-heading {
+    padding: 1rem;
+    text-align: left;
+}
+
 .form {
     background-color: #E8B34D;
     color: black;
@@ -123,6 +128,7 @@ h1, h2 {
     text-align: left;
     padding: 2rem;
     margin: 20% auto;
+    font-size: 150%;
    
 }
 
