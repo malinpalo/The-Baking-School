@@ -95,13 +95,7 @@ h1, h2 {
     letter-spacing: 1px;
 }
 
-#why-bake-heading {
-    font-size: 200%;
-    padding-bottom: 1rem;
-    text-align: left;
-}
-
-#how-does-it-work-heading {
+#about-text-heading {
     font-size: 200%;
     padding-bottom: 1rem;
     text-align: left;
