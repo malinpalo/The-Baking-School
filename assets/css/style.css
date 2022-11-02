@@ -85,10 +85,10 @@ h1, h2 {
     background-color: #C1D7CB;
 }
 
-.flex-container {
+.about-container {
     display: flex;
 }
-.flex-container > div{
+.about-container > div{
     margin: 5% 10%;
     padding: 1rem;
     font-size: 150%;
