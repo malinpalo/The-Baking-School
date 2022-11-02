@@ -95,7 +95,7 @@ h1, h2 {
     letter-spacing: 1px;
 }
 
-#about-text-heading {
+.about-text-heading {
     font-size: 200%;
     padding-bottom: 1rem;
     text-align: left;
@@ -215,6 +215,9 @@ footer{
          margin: 0 auto;
     }
     #about-heading {
-
+        width: 70%;
+        text-align: center;
+        margin: 5% auto;
+        padding: 1rem;
     }
 }
