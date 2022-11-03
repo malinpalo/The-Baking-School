@@ -198,12 +198,18 @@ footer{
 
 /* Media queries */
 
-/* For medium screen sizes from 325px wide and up */
-@media screen and (min-width: 329px){ 
+/* For medium screen sizes from 320px wide and up */
+@media screen and (min-width: 320px){ 
     #logo {
-        float: left;
+        margin: 0;
         font-size: 280%;
         padding-left: 1rem;
+    }
+    #menu {
+        line-height: 40px;
+        padding-left: 1rem;
+        font-size: 100%;
+        float: left;
     }
     #about-heading {
         line-height: 25px;
