@@ -205,10 +205,18 @@ footer{
         font-size: 280%;
         padding-left: 1rem;
     }
+    #about-heading {
+        line-height: 25px;
+        font-size: 110%;
+    }
+    .about-container {
+        flex-direction: column;
+    }
+   #contact-text {
+        font-size: 140%;
+   }
 
 }
-
-
 
 
 
