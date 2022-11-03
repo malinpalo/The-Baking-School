@@ -1,13 +1,16 @@
 # The Baking School
-The Baking School Website is a plattform for people who are curiose about how to bake, that never have baked, that might think that baking is difficult and boring. 
-The Baking School offers classes in easy and fun baking. In a typicall class the teacher gives the student a easy recipe, tools like ingridients and kitchen utensils, a walktrough of the recipe. Then the student gets to bake with assistance of the teacher. 
+The Baking School Website is a plattform for people who are curiose about how to bake, that never have baked, that might think that baking is difficult and boring.
+
+The Baking School offers classes in easy and fun baking.<br> 
+In a typicall class the teacher gives the student a easy recipe, tools like ingridients and kitchen utensils, a walktrough of the recipe. Then the student gets to bake with assistance of the teacher.
+
 Users of the website will get all the information they need about the school, how to sign up and how to contact the school.
 
 The aim of the project is to build a responsive website using HTML and CSS.
 
+[Live link to the Website](https://malinpalo.github.io/The-Baking-School/?fbclid=IwAR1NLY9A7RSG0S5xpstybVzHx16jNqLt2F0ort452kt_tjy8LRLNyokhnNg)
 
-
-## User Stories
+## User experience (UX) 
 ### First Time Visitor Goals:
 * I want to be abel to easily navigate troughout the website.
 * I want to be abel to view the website troughout different devices.
@@ -20,13 +23,23 @@ The aim of the project is to build a responsive website using HTML and CSS.
 ### Frequent Visitor Goals
 * I want to easily take contact with the School to sign up for another class. 
 
-## Color Scheme
+<hr>
+
+## Design
+
+### Color Scheme
  * The color scheme for this page was taken from [Color](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000).
   ![color-palette](../The-Baking-School/assets/image/color-scheme.png "color-scheme")
 
-  * Typography 
-  * Wireframes
-    * I´ve used 
+### Typography
+ * The font for this page was taken from [google fonts](https://fonts.google.com/).
+   * The font Amatic SC was used throughout the whole website. 
+
+### Wireframes
+* To check out the Wireframes that I´ve used, [click here]()
+
+<hr>
+
 ## Features
 * Navigation
   * A logo with the name of the website is located to the top left of the page.
@@ -36,6 +49,7 @@ The aim of the project is to build a responsive website using HTML and CSS.
   * The user can easily find information on the website using the navigation.
 
 * The HomePage Section and About Section.
+![]
   * The homepage shows a picture of baking.
   * The homepage explains that users can join a class to learn how to bake and that baking can be easy and fun.
   * The homepage text is in huiahgua font and stands in contrast to the background. 
