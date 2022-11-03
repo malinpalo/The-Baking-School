@@ -198,29 +198,21 @@ footer{
 
 /* Media queries */
 
-/* For medium screen sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
-    #menu {
+/* For medium screen sizes from 325px wide and up */
+@media screen and (min-width: 329px){ 
+    #logo {
         float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
+        font-size: 280%;
+        padding-left: 1rem;
     }
-    .about-container {
-        flex-direction: column;
-    }
-    #homepage-image {
-         width: 90%;
-         height: 600px;
-         margin: 0 auto;
-    }
-    #about-heading {
-        width: 70%;
-        text-align: center;
-        margin: 5% auto;
-        padding: 1rem;
-        line-height: 50px;
-    }
+
 }
+
+
+
+
+
+
+
 
 /* For medium screen sizes from 450px wide and down */
