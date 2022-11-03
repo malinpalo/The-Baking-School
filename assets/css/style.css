@@ -198,8 +198,8 @@ footer{
 
 /* Media queries */
 
-/* For medium screen sizes from 320px wide and up */
-@media screen and (min-width: 320px){ 
+/* For small screen sizes from 320px wide and up */
+@media screen and (min-width: 320px) and (max-width: 600px) { 
     #logo {
         margin: 0;
         font-size: 280%;
@@ -212,8 +212,8 @@ footer{
         float: left;
     }
     #about-heading {
-        line-height: 25px;
-        font-size: 110%;
+        line-height: 40px;
+        letter-spacing: 1px;
     }
     .about-container {
         flex-direction: column;
@@ -224,9 +224,20 @@ footer{
 
 }
 
+/* For medium screen sizes from 600px wide and up */
+@media screen and (min-width: 600px) (max-width: 750px){
+    #logo {
+        font-size: 260%;
+    }
+
+    #menu {
+        padding-left: 1rem;
+        font-size: 100%;
+        float: right;
+    }
+    .about-container {
+        flex-direction: column;
+    }
+}
 
 
-
-
-
-/* For medium screen sizes from 450px wide and down */
