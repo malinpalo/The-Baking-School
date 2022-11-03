@@ -85,7 +85,6 @@ h1, h2 {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
     background-color: #76A78C;
 }
 .about-text {
@@ -240,4 +239,7 @@ footer{
     }
 }
 
-
+/* For medium screen sizes from 750px wide and up */
+@media screen and (min-width: 750px) {
+    
+}
