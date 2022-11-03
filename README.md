@@ -3,6 +3,10 @@ The Baking School Website is a plattform for people who are curiose about how to
 The Baking School offers classes in easy and fun baking. In a typicall class the teacher gives the student a easy recipe, tools like ingridients and kitchen utensils, a walktrough of the recipe. Then the student gets to bake with assistance of the teacher. 
 Users of the website will get all the information they need about the school, how to sign up and how to contact the school.
 
+The aim of the project is to build a responsive website using HTML and CSS.
+
+
+
 ## User Stories
 ### First Time Visitor Goals:
 * I want to be abel to easily navigate troughout the website.
@@ -16,10 +20,11 @@ Users of the website will get all the information they need about the school, ho
 ### Frequent Visitor Goals
 * I want to easily take contact with the School to sign up for another class. 
 
-## Design
-  * 
+## Color Scheme
+ * The color scheme for this page was taken from [Color](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000).
+  ![color-palette](../The-Baking-School/assets/image/color-scheme.png "color-scheme")
 
-  * Typography (lägg till)
+  * Typography 
   * Wireframes
     * I´ve used 
 ## Features
