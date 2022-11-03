@@ -169,7 +169,6 @@ h1, h2 {
     font-size: 200%;
     letter-spacing: 2px;
     text-align: center;
-    padding-top: 30px;
     width: 100%;
     background-color: #76A78C;
 }
@@ -221,3 +220,5 @@ footer{
         padding: 1rem;
     }
 }
+
+/* For medium screen sizes from 450px wide and down */
