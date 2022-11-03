@@ -17,7 +17,8 @@ Users of the website will get all the information they need about the school, ho
 * I want to easily take contact with the School to sign up for another class. 
 
 ## Design
-  * ![color-scheme]() 
+  * 
+
   * Typography (lägg till)
   * Wireframes
     * I´ve used 
