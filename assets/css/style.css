@@ -107,6 +107,8 @@ h1, h2 {
     height: 600px;
     width:100%
     
+    
+    
 }
 
 #sign-up-heading {
@@ -218,6 +220,7 @@ footer{
         text-align: center;
         margin: 5% auto;
         padding: 1rem;
+        line-height: 50px;
     }
 }
 
