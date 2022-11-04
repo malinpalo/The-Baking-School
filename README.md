@@ -28,7 +28,8 @@ The aim of the project is to build a responsive website using HTML and CSS.
 ## Design
 
 ### Color Scheme
- * The color scheme for this page was taken from [Color](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000).
+ * The color scheme for this page was taken from [Coloor](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000).
+ The colors schemes where picked out after rending the homepage picture in [Coloor](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000) to make a nice structure for the website.
   ![color-palette](../The-Baking-School/assets/image/color-scheme.png "color-scheme")
 
 ### Typography
@@ -51,24 +52,29 @@ The aim of the project is to build a responsive website using HTML and CSS.
   * A navigation bar with navigation links (Home, About, Sign Up and Contact) is located up on the top right of the page.
   * The navigation links takes you to the prefferable section on the page.
   * The user can easily find information on the website using the navigation.
+  ![Ho](./assets/image/readme.md/navigation.png)
 
 * The HomePage Section and About Section.
   * The homepage shows a picture of baking.
   * The homepage explains that users can join a class to learn how to bake and that baking can be easy and fun.
   * The user gets clear information about what the website and school is all about, why they should choose The Baking School and how the school works.
+![Ho](./assets/image/readme.md/home-about.png)
 
  * The Sign Up Section
    * The Sign Up Section contains of a form with required fields for users to fill in, Name, Lastname, E-mail.
    * The form has a submit button in the end. Users will have to fill in all fields to be abel to submit.
    * The Sign up section gives users the ability to sign up for a class.
+   ![Ho](./assets/image/readme.md/sign-up.png)
 
  * The Contact Section
    * The Contact Section provides users with a telefon number and a e-mail adress to enccourage users to take contact.
    * The user can easily contact The Baking School with questions or other requirements.
+   ![Ho](./assets/image/readme.md/contact.png)
   
 * The Footer Section
   * The Footer Section includes icons that links the user to The Baking School on social media such as Instagram,Facebook and Youtube.
   * The Footer Section allows user to get connected with The Baking School at social media.
+  ![Ho](./assets/image/readme.md/footer.png)
 
 * Missing links
   * The submit button links you back to the homepage since the right direction doesn´t exist by today. 
@@ -124,43 +130,54 @@ https://github.com/fatimaqais/daily-yoga.git
 
 ## Testing
 ### W3C Validator testing
-* HTML - One warning where found:
-[]()
+* HTML - No error where found when running the website through the
+[W3C validator.](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fmalinpalo.github.io%2FThe-Baking-School%2F#l36c27)
 
-No errors were found when passing the index.html page through the W3C validator
-  * Solved Bugs
-  * Known Bugs
+* CSS - No errors where found when running the website through the [jigsaw validator.](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmalinpalo.github.io%2FThe-Baking-School%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv#css) 
 
-  ((SOLVED)) "Wrong" Aria-label on social media/homebutton icons, will be fixed as soon as i know why theyre actually considered wrong, letting them stay now because i will get an error either way.
-((SOLVED)) I noticed a small gap on the right side of the nav on some screen sizes, not sure what the problem actually is, i tried removing the margin and change position but it didnt actually do anything useful so will investigate further.
-((SOLVED)) images are not rendered properly.
-Link to webshop and booking form is broken, at the moment, this is solved with a modal containing contact information.
-  * Testing User Stories
-  * Lighthouse
-    * About Page
-    * Sign Up Page
-    * Contact Page
-  * Full Testing
+### Performance and Accessibility Testing
+* [Lighthouse]() was used to test for performance and accessibilty. Following scores and issues where found:
+
+![]()
+
+
+## Solved Bugs
+  * ERROR when pushing "submit" button". Solved this by changing "METHOD" to "GET".
+  * 
+
+## Known Bugs
+
+
+## Testing User Stories
+* The website where checked by family and friends on different devices.
+
+* The website is responsive to different screen sizes and works well on every other device.
+
+* The site was successfully tested on different browsers like Chrome, Edge and Firefox.
+
+* The navigationbar links perfectly to the different sections in the Webpage.
+
+* The footer links works perfectly and opens up on new pages.
+
+* The "Submitt" button works perfectly and links to the homepage. 
+  
 
 ## Credits
 ### Code Used
-* 
+ * Some of the code used for the Logo, footer and navigation bar was taken from the "Loverunning" project with some changes to fit my project.
+ 
 ### Content
-
+# The content in the text in the about section is taken from different websites and after talking to users.
 ### Media
+* The image on the Homepage is taken from [Pexels](https://www.pexels.com/).
+* The icons for The Contact section and The Footer section were taken from Font Awesome.
 
 ### Acknowledgments
 
-  e
-The code for the footer was taken from Code Institute's Love running walkthrough project.
-The code idea for the nav bar was taken from the same above mentioned source. However, there are some style changes to suit my project.
-Content
-Some of the techniques for yoga on the yoga poses page was taken from Insiders health page
-The information in the about section is taken from differeent websites after researching.
-The first page where most of the information came form is Hopkins Medicine
-Some informations were taken from Everyday Health
-Media
-All the images and videos were taken from Pexels.
-The title icon was taken from flaticon
-The icons for about section were taken from Font Awesome
+
+
+
+
+
+
 
