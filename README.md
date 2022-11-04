@@ -52,7 +52,7 @@ The aim of the project is to build a responsive website using HTML and CSS.
   * A navigation bar with navigation links (Home, About, Sign Up and Contact) is located up on the top right of the page.
   * The navigation links takes you to the prefferable section on the page.
   * The user can easily find information on the website using the navigation.
-  ![Ho](./assets/image/readme.md/)
+  ![Ho](./assets/image/readme.md/Navigation-bar.png)
 
 * The HomePage Section and About Section.
   * The homepage shows a picture of baking.
@@ -69,7 +69,7 @@ The aim of the project is to build a responsive website using HTML and CSS.
  * The Contact Section
    * The Contact Section provides users with a telefon number and a e-mail adress to enccourage users to take contact.
    * The user can easily contact The Baking School with questions or other requirements.
-   ![Ho](./assets/image/readme.md/contact.png)
+   ![Ho](./assets/image/readme.md/contact-us.png)
   
 * The Footer Section
   * The Footer Section includes icons that links the user to The Baking School on social media such as Instagram,Facebook and Youtube.
@@ -136,9 +136,9 @@ https://github.com/fatimaqais/daily-yoga.git
 * CSS - No errors where found when running the website through the [jigsaw validator.](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmalinpalo.github.io%2FThe-Baking-School%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv#css) 
 
 ### Performance and Accessibility Testing
-* [Lighthouse]() was used to test for performance and accessibilty. Following scores and issues where found:
+* [Lighthouse]() was used to test for performance and accessibilty. Following scores and issues where found: [Lighthouse scores](https://googlechrome.github.io/lighthouse/viewer/).
 
-![]()
+![](..//The-Baking-School/assets/image/readme.md/Lighthouse.png)
 
 
 ## Solved Bugs
