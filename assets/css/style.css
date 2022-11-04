@@ -29,8 +29,8 @@ h1, h2 {
 /* Navigation */
 
 #menu {
-    font-size: 110%;
-    letter-spacing: 2px;
+    font-size: 150%;
+    letter-spacing: 3px;
 }
 
 #menu, #logo {
@@ -66,6 +66,7 @@ h1, h2 {
 #homepage {
     background-color: #A8C7B6;
 }
+
 #homepage-image {
     height: 600px;
     width: 100%;
@@ -81,15 +82,16 @@ h1, h2 {
     line-height: 75px;
     text-align: center;
     font-size: 200%;
+    letter-spacing: 2px;
     background-color: #E8B34D;
 }
 
 .about-container {
     display: flex;
     flex-direction: row;
-    justify-content: center;
     background-color: #A8C7B6;
 }
+
 .about-text {
     margin: 2%;
     padding: 2rem;
@@ -98,7 +100,7 @@ h1, h2 {
 }
 
 .about-text-heading {
-    font-size: 200%;
+    font-size: 150%;
     padding-bottom: 1rem;
     text-align: left;
 }
@@ -122,8 +124,7 @@ h1, h2 {
     text-decoration: none;
     padding: 2rem;
     margin: 10% auto;
-    font-size: 150%;
-   
+    font-size: 150%;  
 }
 
 .text-input {
@@ -135,7 +136,7 @@ h1, h2 {
 }
 
 #submit {
-    padding: 10px 28px;
+    padding: 5px 20px;
     border-radius: 10px;
     text-align: center;
     font-size: 100%;
@@ -156,7 +157,7 @@ h1, h2 {
 
 #contact-heading {
     font-size: 200%;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     text-align: center;
     padding-top: 100px;
     margin-bottom: 30px;   
@@ -164,7 +165,7 @@ h1, h2 {
 
 #contact-text {
     font-size: 200%;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     text-align: center;
     width: 100%;
     background-color: #A8C7B6;
@@ -176,15 +177,15 @@ footer{
     height: 150px;
 }
 
-.Social-media-icons {
+.social-media-icons {
     text-align: center;
 }
 
-.Social-media-icons li {
+.social-media-icons li {
     display: inline;
 }
 
-.Social-media-icons i {
+.social-media-icons i {
         font-size: 160%;
         margin: 1%;
         padding: 5%;
@@ -193,46 +194,97 @@ footer{
 
 /* Media queries */
 
-/* For small screen sizes from 320px wide and up */
+/* For small screen sizes from 320px wide and up to 600px wide */
 @media screen and (min-width: 320px) and (max-width: 600px) { 
+
     #logo {
         margin: 0;
         font-size: 280%;
         padding-left: 1rem;
     }
+
     #menu {
         line-height: 40px;
         padding-left: 1rem;
-        font-size: 100%;
+        margin-right: 15px;
+        font-size: 120%;
+        letter-spacing: 1px;
         float: left;
     }
+
     #about-heading {
-        line-height: 40px;
+        font-size: 150%;
+        line-height: 50px;
         letter-spacing: 1px;
     }
+
+    .about-text-heading {
+        font-size: 150%;
+    }
+
     .about-container {
         flex-direction: column;
     }
+
+    #sign-up-heading {
+        letter-spacing: 1px;
+        font-size: 150%;
+    }
+
     #contact-text {
         font-size: 140%;
+        letter-spacing: 1px;
    }
-
 }
 
-/* For medium screen sizes from 600px wide and up */
+/* For medium screen sizes from 600px wide and up to  */
 @media screen and (min-width: 600px) and (max-width: 750px){
+
     #logo {
-        font-size: 260%;
+        font-size: 270%;
     }
+
     #menu {
         padding-left: 1rem;
-        font-size: 100%;
+        font-size: 120%;
         float: right;
     }
+
     #menu li {
-        margin: 5%
+        margin-right: 20px;
     }
+
+    #about-heading {
+        font-size: 200%;
+        line-height: 50px;
+        letter-spacing: 1px;
+    }
+
     .about-container {
         flex-direction: column;
+    }
+
+    .about-text-heading {
+        font-size: 150%;
+    }
+
+    .about-text {
+        font-size: 200%;
+    }
+
+    .form {
+        font-size: 200%;
+    }
+
+    #submit {
+        font-size: 70%;
+    }
+
+    #contact-heading {
+        font-size: 300%;
+    }
+    
+    #contact-text {
+        font-size: 250%;
     }
 }
