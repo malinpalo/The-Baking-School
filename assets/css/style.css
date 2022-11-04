@@ -63,6 +63,9 @@ h1, h2 {
 
 /* Homepage */
 
+#homepage {
+    background-color: #C1D7CB;
+}
 #homepage-image {
     height: 600px;
     width: 100%;
@@ -78,7 +81,7 @@ h1, h2 {
     line-height: 75px;
     text-align: center;
     font-size: 200%;
-    background-color: #C1D7CB;
+    background-color: #E8B34D;
 }
 
 .about-container {
@@ -120,7 +123,6 @@ h1, h2 {
     color: black;
     max-width: 500px;
     text-decoration: none;
-    text-align: left;
     padding: 2rem;
     margin: 10% auto;
     font-size: 150%;
