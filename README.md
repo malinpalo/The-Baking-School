@@ -52,7 +52,7 @@ The aim of the project is to build a responsive website using HTML and CSS.
   * A navigation bar with navigation links (Home, About, Sign Up and Contact) is located up on the top right of the page.
   * The navigation links takes you to the prefferable section on the page.
   * The user can easily find information on the website using the navigation.
-  ![Ho](./assets/image/readme.md/navigation.png)
+  ![Ho](./assets/image/readme.md/)
 
 * The HomePage Section and About Section.
   * The homepage shows a picture of baking.
