@@ -122,8 +122,12 @@ How to Clone this repository:
 https://github.com/fatimaqais/daily-yoga.git
  
 
-* Testing
-  * W3C
+## Testing
+### W3C Validator testing
+* HTML - One warning where found:
+[]()
+
+No errors were found when passing the index.html page through the W3C validator
   * Solved Bugs
   * Known Bugs
 
