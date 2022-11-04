@@ -108,9 +108,6 @@ h1, h2 {
 #sign-up {
     height: 600px;
     width:100%
-    
-    
-    
 }
 
 #sign-up-heading {
@@ -135,8 +132,6 @@ h1, h2 {
     height: 25px;   
     margin: 5px 0 20px 0;
     border: 1px solid black;
-    
-
 }
 
 #submit {
@@ -148,8 +143,7 @@ h1, h2 {
     text-transform: uppercase;
     background-color: #A8C7B6;
     border: 1px solid black;
-    color: black;
-    
+    color: black;    
 }
 
 /* Contact */
@@ -219,7 +213,7 @@ footer{
     .about-container {
         flex-direction: column;
     }
-   #contact-text {
+    #contact-text {
         font-size: 140%;
    }
 
@@ -230,11 +224,13 @@ footer{
     #logo {
         font-size: 260%;
     }
-
     #menu {
         padding-left: 1rem;
         font-size: 100%;
         float: right;
+    }
+    #menu li {
+        margin: 5%
     }
     .about-container {
         flex-direction: column;

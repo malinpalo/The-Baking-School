@@ -29,8 +29,8 @@ The aim of the project is to build a responsive website using HTML and CSS.
 
 ### Color Scheme
  * The color scheme for this page was taken from [Coloor](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000).
- The colors schemes where picked out after rending the homepage picture in [Coloor](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000) to make a nice structure for the website.
-  ![color-palette](../The-Baking-School/assets/image/color-scheme.png "color-scheme")
+ The colors scheme where picked out after rending the homepage picture in [Coloor](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000) to make a nice structure for the website.
+  ![color-palette](/assets/image/readme.md/color-scheme.png)
 
 ### Typography
  * The font for this page was taken from [google fonts](https://fonts.google.com/).
