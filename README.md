@@ -126,6 +126,11 @@ https://github.com/fatimaqais/daily-yoga.git
   * W3C
   * Solved Bugs
   * Known Bugs
+
+  ((SOLVED)) "Wrong" Aria-label on social media/homebutton icons, will be fixed as soon as i know why theyre actually considered wrong, letting them stay now because i will get an error either way.
+((SOLVED)) I noticed a small gap on the right side of the nav on some screen sizes, not sure what the problem actually is, i tried removing the margin and change position but it didnt actually do anything useful so will investigate further.
+((SOLVED)) images are not rendered properly.
+Link to webshop and booking form is broken, at the moment, this is solved with a modal containing contact information.
   * Testing User Stories
   * Lighthouse
     * About Page
@@ -133,8 +138,25 @@ https://github.com/fatimaqais/daily-yoga.git
     * Contact Page
   * Full Testing
 
-* Credits
-  * Code Used
-  * Content
-  * Media
-  * Acknowledgments
+## Credits
+### Code Used
+* 
+### Content
+
+### Media
+
+### Acknowledgments
+
+  e
+The code for the footer was taken from Code Institute's Love running walkthrough project.
+The code idea for the nav bar was taken from the same above mentioned source. However, there are some style changes to suit my project.
+Content
+Some of the techniques for yoga on the yoga poses page was taken from Insiders health page
+The information in the about section is taken from differeent websites after researching.
+The first page where most of the information came form is Hopkins Medicine
+Some informations were taken from Everyday Health
+Media
+All the images and videos were taken from Pexels.
+The title icon was taken from flaticon
+The icons for about section were taken from Font Awesome
+
