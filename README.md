@@ -7,6 +7,8 @@ In a typicall class the teacher gives the student a easy recipe, tools like ingr
 Users of the website will get all the information they need about the school, how to sign up and how to contact the school.
 
 [Live link to the Website](https://malinpalo.github.io/The-Baking-School/?fbclid=IwAR1NLY9A7RSG0S5xpstybVzHx16jNqLt2F0ort452kt_tjy8LRLNyokhnNg)
+<hr>
+
 
 ## User experience (UX) 
 ### First Time Visitor Goals:
