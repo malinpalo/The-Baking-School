@@ -6,8 +6,6 @@ In a typicall class the teacher gives the student a easy recipe, tools like ingr
 
 Users of the website will get all the information they need about the school, how to sign up and how to contact the school.
 
-The aim of the project is to build a responsive website using HTML and CSS.
-
 [Live link to the Website](https://malinpalo.github.io/The-Baking-School/?fbclid=IwAR1NLY9A7RSG0S5xpstybVzHx16jNqLt2F0ort452kt_tjy8LRLNyokhnNg)
 
 ## User experience (UX) 
@@ -30,14 +28,16 @@ The aim of the project is to build a responsive website using HTML and CSS.
 ### Color Scheme
  * The color scheme for this page was taken from [Coloor](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000).
  The colors scheme where picked out after rending the homepage picture in [Coloor](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000) to make a nice structure for the website.
-  ![color-palette](/assets/image/readme.md/color-scheme.png)
+  ![color](./assets/image/readme.md/color.png)
 
 ### Typography
  * The font for this page was taken from [google fonts](https://fonts.google.com/).
    * The font Amatic SC was used throughout the whole website. 
 
 ### Wireframes
-* To check out the Wireframes that I´ve used, [click here]()
+* To get an owerviev of how the website will look I used Wireframes.
+
+![wireframes](./assets/image/readme.md/wireframe.png)
 
 <hr>
 
@@ -117,17 +117,6 @@ This website was deployed to GitHub Pages by following steps:
 * From the source dropdown, select main branch and then press save.
 * The site will be deployed now. It may take a few minutes to go live.
 
-### Local Development
-How to Fork this repository:
-* Log in to GitHub
-* Go to the repository, https://malinpalo.github.io/The-Baking-School/
-* On the top right corner, click on the button that says fork.
-    
-How to Clone this repository:
-* Copy the command below and paste it in your terminal:
-https://github.com/fatimaqais/daily-yoga.git
- 
-
 ## Testing
 ### W3C Validator testing
 * HTML - No error where found when running the website through the
@@ -136,9 +125,9 @@ https://github.com/fatimaqais/daily-yoga.git
 * CSS - No errors where found when running the website through the [jigsaw validator.](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmalinpalo.github.io%2FThe-Baking-School%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv#css) 
 
 ### Performance and Accessibility Testing
-* [Lighthouse]() was used to test for performance and accessibilty. Following scores and issues where found: [Lighthouse scores](https://googlechrome.github.io/lighthouse/viewer/).
+* [Lighthouse](https://web.dev/measure/?url=https%3A%2F%2Fmalinpalo.github.io%2FThe-Baking-School%2F) was used to test for performance and accessibilty. Following scores and issues where found: [Lighthouse scores](https://googlechrome.github.io/lighthouse/viewer/).
 
-![](..//The-Baking-School/assets/image/readme.md/Lighthouse.png)
+![lighthouse](./assets/image/readme.md/lighthouse.png)
 
 
 ## Solved Bugs
