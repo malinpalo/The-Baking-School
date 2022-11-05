@@ -52,29 +52,29 @@ The aim of the project is to build a responsive website using HTML and CSS.
   * A navigation bar with navigation links to Home, About, Sign Up and Contact, is located up on the top right of the page.
   * The navigation links takes you to the prefferable section on the page.
   * The user can easily find information on the website using the navigation.
-  ![](./assets/image/readme.md/Navigation-bar.png)
+  ![navigation](./assets/image/readme.md/navigation.png)
 
 * The HomePage Section and About Section.
   * The homepage shows a picture of baking.
   * The homepage text explains that users can join a class to learn how to bake and that baking can be easy and fun.
   * The user gets clear information about what the website and school is all about, why they should choose The Baking School and how the school works.
-![Ho](./assets/image/readme.md/home-about.png)
+![homeabout](./assets/image/readme.md/homeabout.png)
 
  * The Sign Up Section
    * The Sign Up Section contains of a form with required fields for users to fill in, Name, Lastname, E-mail.
    * The form has a submit button in the end. Users will have to fill in all fields to be abel to submit.
    * The Sign up section gives users the ability to sign up for a class.
-   ![Ho](./assets/image/readme.md/sign-up.png)
+   ![sign](./assets/image/readme.md/sign.png)
 
  * The Contact Section
    * The Contact Section provides users with a telefon number and a e-mail adress to enccourage users to take contact.
    * The user can easily contact The Baking School with questions or other requirements.
-   ![Ho](./assets/image/readme.md/contact-us.png)
+   ![contact](./assets/image/readme.md/contact.png)
   
 * The Footer Section
   * The Footer Section includes icons that links the user to The Baking School on social media such as Instagram,Facebook and Youtube.
   * The Footer Section allows user to get connected with The Baking School at social media.
-  ![Ho](./assets/image/readme.md/footer.png)
+  ![footer](./assets/image/readme.md/footer.png)
 
 * Missing links
   * The submit button links you back to the homepage since the right direction doesn´t exist by today. 
