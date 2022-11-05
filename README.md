@@ -49,14 +49,14 @@ The aim of the project is to build a responsive website using HTML and CSS.
 
 * Navigation
   * A logo with the name of the website is located to the top left of the page.
-  * A navigation bar with navigation links (Home, About, Sign Up and Contact) is located up on the top right of the page.
+  * A navigation bar with navigation links to Home, About, Sign Up and Contact, is located up on the top right of the page.
   * The navigation links takes you to the prefferable section on the page.
   * The user can easily find information on the website using the navigation.
-  ![Ho](./assets/image/readme.md/Navigation-bar.png)
+  ![](./assets/image/readme.md/Navigation-bar.png)
 
 * The HomePage Section and About Section.
   * The homepage shows a picture of baking.
-  * The homepage explains that users can join a class to learn how to bake and that baking can be easy and fun.
+  * The homepage text explains that users can join a class to learn how to bake and that baking can be easy and fun.
   * The user gets clear information about what the website and school is all about, why they should choose The Baking School and how the school works.
 ![Ho](./assets/image/readme.md/home-about.png)
 
