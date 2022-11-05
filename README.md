@@ -9,6 +9,7 @@ Users of the website will get all the information they need about the school, ho
 [Live link to the Website](https://malinpalo.github.io/The-Baking-School/?fbclid=IwAR1NLY9A7RSG0S5xpstybVzHx16jNqLt2F0ort452kt_tjy8LRLNyokhnNg)
 <hr>
 
+![responsive](./assets/image/readme.md/responsive.png)
 
 ## User experience (UX) 
 ### First Time Visitor Goals:
@@ -29,7 +30,7 @@ Users of the website will get all the information they need about the school, ho
 
 ### Color Scheme
  * The color scheme for this page was taken from [Coloor](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000).
- The colors scheme where picked out after rending the homepage picture in [Coloor](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000) to make a nice structure for the website.
+ The color scheme where picked out after rending the homepage picture in [Coloor](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000) to make a nice structure and visibility for the website.
   ![color](./assets/image/readme.md/color.png)
 
 ### Typography
@@ -45,9 +46,11 @@ Users of the website will get all the information they need about the school, ho
 
 ## Features
 
-* Throughout the whole website 
+* Throughout the whole website: 
+  * The website is designed with focus on getting good visibility. 
   * The text stands out from the background with contrast and different background colors are used to increase the accessibility and clarity of the website.
-  Every section is responsive in shape and size depending on different screen sizes. 
+
+  * Every section is responsive in shape and size depending on different screen sizes. 
 
 * Navigation
   * A logo with the name of the website is located to the top left of the page.
@@ -69,7 +72,7 @@ Users of the website will get all the information they need about the school, ho
    ![sign](./assets/image/readme.md/sign.png)
 
  * The Contact Section
-   * The Contact Section provides users with a telefon number and a e-mail adress to enccourage users to take contact.
+   * The Contact Section provides users with a telefon number and a e-mail adress to encourage users to take contact.
    * The user can easily contact The Baking School with questions or other requirements.
    ![contact](./assets/image/readme.md/contact.png)
   
@@ -134,17 +137,13 @@ This website was deployed to GitHub Pages by following steps:
 
 ## Solved Bugs
   * ERROR when pushing "submit" button". Solved this by changing "METHOD" to "GET".
-  * 
-
-## Known Bugs
-
-
+  
 ## Testing User Stories
 * The website where checked by family and friends on different devices.
 
 * The website is responsive to different screen sizes and works well on every other device.
 
-* The site was successfully tested on different browsers like Chrome, Edge and Firefox.
+* The site was successfully tested on different browsers like Chrome, Safari and Firefox.
 
 * The navigationbar links perfectly to the different sections in the Webpage.
 
@@ -157,14 +156,18 @@ This website was deployed to GitHub Pages by following steps:
 ### Code Used
  * Some of the code used for the Logo, footer and navigation bar was taken from the "Loverunning" project with some changes to fit my project.
  
-### Content
-# The content in the text in the about section is taken from different websites and after talking to users.
 ### Media
 * The image on the Homepage is taken from [Pexels](https://www.pexels.com/).
 * The icons for The Contact section and The Footer section were taken from Font Awesome.
 
-### Acknowledgments
+### Content
+* Some of the information in the about section is taken from the website [Dietistannica](https://dietistannica.com/2015/05/02/5-fordelar-med-att-baka-ditt-eget-brod/).
 
+### Acknowledgments
+* The site was completed as a Portfolio 1 Project for the Full Stack Software Developer (e-Commerce) Diploma at the Code Institute. 
+* I would like to thank friends and family, my mentor Spencer Barriball, Slack community, and all at the Code Institute for their help and support.
+
+Malin Palo 2022.
 
 
 
