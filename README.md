@@ -9,7 +9,7 @@ Users of the website will get all the information they need about the school, ho
 [Live link to the Website](https://malinpalo.github.io/The-Baking-School/?fbclid=IwAR1NLY9A7RSG0S5xpstybVzHx16jNqLt2F0ort452kt_tjy8LRLNyokhnNg)
 <hr>
 
-![responsive](./assets/image/readme.md/responsive.png)
+![responsive](/assets/image/readme.md/responsive.png)
 
 ## User experience (UX) 
 ### First Time Visitor Goals:
@@ -31,7 +31,7 @@ Users of the website will get all the information they need about the school, ho
 ### Color Scheme
  * The color scheme for this page was taken from [Coloor](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000).
  The color scheme where picked out after rending the homepage picture in [Coloor](https://coolors.co/palette/ffffff-b2cdbe-76a78c-e8b34d-000000) to make a nice structure and visibility for the website.
-  ![color](./assets/image/readme.md/color.png)
+  ![color](/assets/image/readme.md/color.png)
 
 ### Typography
  * The font for this page was taken from [google fonts](https://fonts.google.com/).
@@ -40,7 +40,7 @@ Users of the website will get all the information they need about the school, ho
 ### Wireframes
 * To get an owerviev of how the website will look I used Wireframes.
 
-![wireframes](./assets/image/readme.md/wireframe.png)
+![wireframes](/assets/image/readme.md/wireframe.png)
 
 <hr>
 
@@ -63,23 +63,23 @@ Users of the website will get all the information they need about the school, ho
   * The homepage shows a picture of baking.
   * The homepage text explains that users can join a class to learn how to bake and that baking can be easy and fun.
   * The user gets clear information about what the website and school is all about, why they should choose The Baking School and how the school works.
-![homeabout](./assets/image/readme.md/homeabout.png)
+![homeabout](/assets/image/readme.md/homeabout.png)
 
  * The Sign Up Section
    * The Sign Up Section contains of a form with required fields for users to fill in, Name, Lastname, E-mail.
    * The form has a submit button in the end. Users will have to fill in all fields to be abel to submit.
    * The Sign up section gives users the ability to sign up for a class.
-   ![sign](./assets/image/readme.md/sign.png)
+   ![sign](/assets/image/readme.md/sign.png)
 
  * The Contact Section
    * The Contact Section provides users with a telefon number and a e-mail adress to encourage users to take contact.
    * The user can easily contact The Baking School with questions or other requirements.
-   ![contact](./assets/image/readme.md/contact.png)
+   ![contact](/assets/image/readme.md/contact.png)
   
 * The Footer Section
   * The Footer Section includes icons that links the user to The Baking School on social media such as Instagram,Facebook and Youtube.
   * The Footer Section allows user to get connected with The Baking School at social media.
-  ![footer](./assets/image/readme.md/footer.png)
+  ![footer](/assets/image/readme.md/footer.png)
 
 * Missing links
   * The submit button links you back to the homepage since the right direction doesn´t exist by today. 
@@ -132,7 +132,7 @@ This website was deployed to GitHub Pages by following steps:
 ### Performance and Accessibility Testing
 * [Lighthouse](https://web.dev/measure/?url=https%3A%2F%2Fmalinpalo.github.io%2FThe-Baking-School%2F) was used to test for performance and accessibilty. Following scores and issues where found: [Lighthouse scores](https://googlechrome.github.io/lighthouse/viewer/).
 
-![lighthouse](./assets/image/readme.md/lighthouse.png)
+![lighthouse](/assets/image/readme.md/lighthouse.png)
 
 
 ## Solved Bugs
