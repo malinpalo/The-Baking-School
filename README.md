@@ -57,7 +57,7 @@ Users of the website will get all the information they need about the school, ho
   * A navigation bar with navigation links to Home, About, Sign Up and Contact, is located up on the top right of the page.
   * The navigation links takes you to the prefferable section on the page.
   * The user can easily find information on the website using the navigation.
-  ![navigation](./assets/image/readme.md/navigation.png)
+  ![navigation](/assets/image/readme.md/navigation.png)
 
 * The HomePage Section and About Section.
   * The homepage shows a picture of baking.
